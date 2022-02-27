@@ -1,8 +1,9 @@
-.git
-.idea
-node
-html
-css
-js
-populate_rango.py
-requirements.txt
+css/
+fonts/
+img/
+index.html
+js/
+LICENSE
+README.md
+scss/
+ 
